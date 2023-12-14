@@ -423,3 +423,4 @@ def combine_multi_view_matrix(ast_matrix, sib_matrix, dfg_matrix):
 
 if __name__ == "__main__":
     print(split_identifier_into_parts("1MakeSence1_okk_SenseIt"))
+    print("OK")

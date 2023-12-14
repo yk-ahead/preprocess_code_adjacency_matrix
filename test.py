@@ -309,12 +309,12 @@ def extract_dataflow(code, parser,lang):
         dfg=new_DFG
     except:
         dfg=[]
-    return code_tokens,dfg
+    return code_tokens, dfg
 
 
 a,b = extract_dataflow(code=code, parser=parser,lang='python')
 # a,b = extract_dataflow(code=source_code, parser=parser,lang='python')
 print(a)
 print(b)
-print("OssssK")
+print("OsssssssK")
 
